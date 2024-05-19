@@ -1,5 +1,7 @@
 # Resumake
 
+Checkout my deployment at [Resumake](https://resumake-7c544.firebaseapp.com/)
+
 Literally the fastest way to make your resume
 
 Basically, you give the details, and Resumake does the styling.
@@ -8,7 +10,7 @@ This is in no way to be used as a full fledged Resume builder and I can't guaran
 
 This project is merely a learning experience for me to get myself accustomed to Firebase, Google Analytics, User management and data handling across multiple accounts.
 
-# More
+## More
 
 Supports Google and Facebook authentication, but if you don't want that, plain old email and password works as well
 
@@ -20,7 +22,7 @@ Also the logo and the favicon will have to do for now since my photoshop install
 
 Also has a nice admin panel for easy management of ads and banners, there is a scrambled implementation of Google Analytics going on, which I hope to fix in the near future to start experimenting with Ad based revenue.
 
-# Missing files
+## Missing files
 
 ### There is a file `/src/conf/configuration.js` because I did not add it to git, as it had a lot of secrets, if you want to try out deploying the project yourself, then this is the structure:
 
@@ -76,7 +78,6 @@ REACT_APP_FIREBASE_APP_ID="finally "
 ## Saved me so much hassle
 GENERATE_SOURCEMAP=false
 ```
-
 
 Now, finally, I am obligated to include the next section as per Meta's app dev policies, ignore if you want.
 But these docs helped me out a lot
