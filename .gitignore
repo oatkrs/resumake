@@ -13,6 +13,7 @@
 /src/conf/configuration.js
 .firebaserc
 firebase.json
+firebase-debug.log
 debug.log
 
 
